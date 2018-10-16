@@ -1,0 +1,13 @@
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\obj\Debug\KIntegration.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\obj\Debug\KIntegration.Properties.Resources.resources
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\obj\Debug\KIntegration.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\obj\Debug\KIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\bin\Debug\KIntegration.exe.config
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\bin\Debug\KIntegration.exe
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\bin\Debug\KIntegration.pdb
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\obj\Debug\KIntegration.csproj.CopyComplete
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\obj\Debug\KIntegration.exe
+C:\Users\Administrador\source\repos\KIntegration\KIntegration\obj\Debug\KIntegration.pdb

@@ -1,0 +1,346 @@
+2018-10-14 01:24:22 - BusinessPartner/78/PJ00005 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/79/PJ00005 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/80/PJ00005 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/106/PJ00059 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/107/PJ00059 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/108/PJ00059 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/111/PJ00062 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/112/PJ00062 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/113/PJ00062 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/125/PJ00079 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/126/PJ00079 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/127/PJ00079 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/144/PJ00107 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/145/PJ00107 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:11 - BusinessPartner/146/PJ00107 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:12 - BusinessPartner/208/PJ00226 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:12 - BusinessPartner/209/PJ00226 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:12 - BusinessPartner/210/PJ00226 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:14 - BusinessPartner/934/PJ01535 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:14 - BusinessPartner/935/PJ01535 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:14 - BusinessPartner/936/PJ01535 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:15 - BusinessPartner/1091/PJ01809 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:15 - BusinessPartner/1092/PJ01809 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:15 - BusinessPartner/1093/PJ01809 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:16 - BusinessPartner/1227/PJ02008 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:16 - BusinessPartner/1228/PJ02008 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:16 - BusinessPartner/1229/PJ02008 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:16 - BusinessPartner/1314/PJ02138 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:16 - BusinessPartner/1315/PJ02138 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:16 - BusinessPartner/1316/PJ02138 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:19 - BusinessPartner/1904/PJ02931 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:19 - BusinessPartner/1905/PJ02931 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:19 - BusinessPartner/1906/PJ02931 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:20 - BusinessPartner/2131/PJ03199 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:20 - BusinessPartner/2132/PJ03199 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:20 - BusinessPartner/2133/PJ03199 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2160/PJ03229 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2161/PJ03229 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2162/PJ03229 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2232/PJ03309 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2233/PJ03309 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2234/PJ03309 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2246/PJ03325 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2247/PJ03325 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:21 - BusinessPartner/2248/PJ03325 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:22 - BusinessPartner/2480/PJ03583 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:22 - BusinessPartner/2481/PJ03583 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:22 - BusinessPartner/2482/PJ03583 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:23 - BusinessPartner/2592/PJ03706 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:23 - BusinessPartner/2593/PJ03706 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:23 - BusinessPartner/2594/PJ03706 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:25 - BusinessPartner/2988/PJ04167 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:25 - BusinessPartner/2989/PJ04167 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:25 - BusinessPartner/2990/PJ04167 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:26:31 - BusinessPartner/3424/PJ04610 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:06 - BusinessPartner/3425/PJ04610 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:06 - BusinessPartner/3426/PJ04610 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:08 - BusinessPartner/3766/PJ04952 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:08 - BusinessPartner/3767/PJ04952 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:08 - BusinessPartner/3768/PJ04952 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:08 - BusinessPartner/3794/ : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:08 - BusinessPartner/3799/PJ04982 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:08 - BusinessPartner/3800/PJ04982 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:08 - BusinessPartner/3801/PJ04982 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3899/PJ05080 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3900/PJ05080 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3901/PJ05080 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3904/PJ05082 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3905/PJ05082 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3906/PJ05082 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3913/PJ05088 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3914/PJ05088 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3915/PJ05088 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3922/PJ05094 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3923/PJ05094 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:09 - BusinessPartner/3924/PJ05094 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:14 - BusinessPartner/4749/PJ06009 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:14 - BusinessPartner/4750/PJ06009 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:14 - BusinessPartner/4751/PJ06009 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:16 - BusinessPartner/5108/PJ06987 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:16 - BusinessPartner/5109/PJ06987 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:16 - BusinessPartner/5110/PJ06987 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 01:27:23 - BusinessPartner/6142/ : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:23:57 - PriceList/3539/TABELA PADRAO : Cannot insert duplicate key row in object 'dbo.PRLIST0' with unique index 'IX_PRLIST0_Code'.
+The statement has been terminated.
+2018-10-14 08:23:58 - PriceList/3524/TABELA PADRAO : Cannot insert duplicate key row in object 'dbo.PRLIST0' with unique index 'IX_PRLIST0_Code'.
+The statement has been terminated.
+2018-10-14 08:23:59 - PriceList/1862/TABELA PADRAO : Cannot insert duplicate key row in object 'dbo.PRLIST0' with unique index 'IX_PRLIST0_Code'.
+The statement has been terminated.
+2018-10-14 08:23:59 - PriceList/1906/TABELA PADRAO : Cannot insert duplicate key row in object 'dbo.PRLIST0' with unique index 'IX_PRLIST0_Code'.
+The statement has been terminated.
+2018-10-14 08:24:05 - PriceList/1999/TABELA PADRAO : Cannot insert duplicate key row in object 'dbo.PRLIST0' with unique index 'IX_PRLIST0_Code'.
+The statement has been terminated.
+2018-10-14 08:24:35 - PriceList/2086/TABELA PADRAO : Cannot insert duplicate key row in object 'dbo.PRLIST0' with unique index 'IX_PRLIST0_Code'.
+The statement has been terminated.
+2018-10-14 08:24:44 - PriceList/1665/TABELA PADRAO : Cannot insert duplicate key row in object 'dbo.PRLIST0' with unique index 'IX_PRLIST0_Code'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/78/PJ00005 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/79/PJ00005 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/80/PJ00005 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/106/PJ00059 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/107/PJ00059 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/108/PJ00059 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/111/PJ00062 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/112/PJ00062 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/113/PJ00062 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/125/PJ00079 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/126/PJ00079 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/127/PJ00079 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/144/PJ00107 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/145/PJ00107 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/146/PJ00107 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/208/PJ00226 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/209/PJ00226 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:00 - BusinessPartner/210/PJ00226 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:03 - BusinessPartner/934/PJ01535 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:04 - BusinessPartner/935/PJ01535 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:04 - BusinessPartner/936/PJ01535 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:04 - BusinessPartner/1091/PJ01809 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:04 - BusinessPartner/1092/PJ01809 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:04 - BusinessPartner/1093/PJ01809 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:05 - BusinessPartner/1227/PJ02008 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:05 - BusinessPartner/1228/PJ02008 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:05 - BusinessPartner/1229/PJ02008 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:06 - BusinessPartner/1314/PJ02138 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:06 - BusinessPartner/1315/PJ02138 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:06 - BusinessPartner/1316/PJ02138 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:10 - BusinessPartner/1904/PJ02931 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:10 - BusinessPartner/1905/PJ02931 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:10 - BusinessPartner/1906/PJ02931 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:11 - BusinessPartner/2131/PJ03199 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:11 - BusinessPartner/2132/PJ03199 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:11 - BusinessPartner/2133/PJ03199 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:11 - BusinessPartner/2160/PJ03229 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:11 - BusinessPartner/2161/PJ03229 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:11 - BusinessPartner/2162/PJ03229 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:12 - BusinessPartner/2232/PJ03309 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:12 - BusinessPartner/2233/PJ03309 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:12 - BusinessPartner/2234/PJ03309 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:12 - BusinessPartner/2246/PJ03325 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:12 - BusinessPartner/2247/PJ03325 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:12 - BusinessPartner/2248/PJ03325 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:13 - BusinessPartner/2480/PJ03583 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:13 - BusinessPartner/2481/PJ03583 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:13 - BusinessPartner/2482/PJ03583 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:14 - BusinessPartner/2592/PJ03706 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:14 - BusinessPartner/2593/PJ03706 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:14 - BusinessPartner/2594/PJ03706 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:16 - BusinessPartner/2988/PJ04167 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:16 - BusinessPartner/2989/PJ04167 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:16 - BusinessPartner/2990/PJ04167 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:19 - BusinessPartner/3424/PJ04610 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:19 - BusinessPartner/3425/PJ04610 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:19 - BusinessPartner/3426/PJ04610 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3766/PJ04952 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3767/PJ04952 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3768/PJ04952 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3794/ : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3799/PJ04982 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3800/PJ04982 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3801/PJ04982 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3899/PJ05080 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3900/PJ05080 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3901/PJ05080 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3904/PJ05082 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3905/PJ05082 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:21 - BusinessPartner/3906/PJ05082 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:22 - BusinessPartner/3913/PJ05088 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:22 - BusinessPartner/3914/PJ05088 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:22 - BusinessPartner/3915/PJ05088 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:22 - BusinessPartner/3922/PJ05094 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:22 - BusinessPartner/3923/PJ05094 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:22 - BusinessPartner/3924/PJ05094 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:29 - BusinessPartner/4749/PJ06009 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:29 - BusinessPartner/4750/PJ06009 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:29 - BusinessPartner/4751/PJ06009 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:32 - BusinessPartner/5108/PJ06987 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:32 - BusinessPartner/5109/PJ06987 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:32 - BusinessPartner/5110/PJ06987 : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
+2018-10-14 08:35:40 - BusinessPartner/6142/ : Cannot insert duplicate key row in object 'dbo.BPART0' with unique index 'IX_BPART0_CardCode'.
+The statement has been terminated.
